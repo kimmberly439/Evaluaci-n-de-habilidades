@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+html{
+
+    font-family: 'Fredoka One', cursive;
+
+}
+
+:root{
+    --green_1: rgb(186, 248, 150);
+    --green_2: rgb(225, 222, 231);
+    --green_3: rgb(255, 239, 96);
+    --color_txt:rgb(0, 0, 0);
+
+ --Titulo_h1:1.8rem;
+ --titulo_h2:1.6rem;
+
+}
+
